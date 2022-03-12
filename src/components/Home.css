@@ -37,7 +37,7 @@ a:hover{
     display: flex;
     flex-direction: row;
     min-height: 40vh;
-    min-width: 60%;
+    min-width: 60vw;
     margin: 20px;
     border-radius: 20px;
     background-color: rgb(101, 91, 255);
